@@ -1,0 +1,11 @@
+li.deck-before, li.deck-previous, p.deck-before, p.deck-previous {
+  opacity: 0.4;
+}
+
+section.slide {
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.05) inset;
+  -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.05) inset;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.05) inset;
+  padding: 10px;
+}
+
