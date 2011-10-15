@@ -1,4 +1,12 @@
-li.deck-before, li.deck-previous, p.deck-before, p.deck-previous {
+html {
+  height: 90%;
+}
+
+p, li, ul {
+  text-shadow: -1px -1px white, 1px 1px white;
+}
+
+li.deck-before, li.deck-previous, p.deck-before, p.deck-previous, ul.deck-before, ul.deck-previous {
   opacity: 0.4;
 }
 
